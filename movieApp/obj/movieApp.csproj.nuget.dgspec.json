@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\batul\\OneDrive\\Masaüstü\\movieApp\\movieApp.csproj": {}
+    "C:\\Users\\batul\\OneDrive\\Belgeler\\GitHub\\moviApp\\movieApp\\movieApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\batul\\OneDrive\\Masaüstü\\movieApp\\movieApp.csproj": {
+    "C:\\Users\\batul\\OneDrive\\Belgeler\\GitHub\\moviApp\\movieApp\\movieApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\batul\\OneDrive\\Masaüstü\\movieApp\\movieApp.csproj",
+        "projectUniqueName": "C:\\Users\\batul\\OneDrive\\Belgeler\\GitHub\\moviApp\\movieApp\\movieApp.csproj",
         "projectName": "movieApp",
-        "projectPath": "C:\\Users\\batul\\OneDrive\\Masaüstü\\movieApp\\movieApp.csproj",
+        "projectPath": "C:\\Users\\batul\\OneDrive\\Belgeler\\GitHub\\moviApp\\movieApp\\movieApp.csproj",
         "packagesPath": "C:\\Users\\batul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\batul\\OneDrive\\Masaüstü\\movieApp\\obj\\",
+        "outputPath": "C:\\Users\\batul\\OneDrive\\Belgeler\\GitHub\\moviApp\\movieApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
